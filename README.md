@@ -27,11 +27,11 @@ Dependency injection for [LeoECS Lite](https://github.com/Leopotam/ecslite).
 ## As unity module
 This repository can be installed as unity module directly from git url. In this way new line should be added to `Packages/manifest.json`:
 ```
-"com.leopotam.ecslite.di": "https://github.com/Leopotam/ecslite-di.git",
+"com.leopotam.ecslite.di": "https://github.com/JimboA/ecslite-di.git",
 ```
 By default last released version will be used. If you need trunk / developing version then `develop` name of branch should be added after hash:
 ```
-"com.leopotam.ecslite.di": "https://github.com/Leopotam/ecslite-di.git#develop",
+"com.leopotam.ecslite.di": "https://github.com/JimboA/ecslite-di.git#develop",
 ```
 
 ## As source
